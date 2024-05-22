@@ -1,2 +1,2 @@
 #!/bin/bash
-file_type=$(file --iamafile -b "tmp")
+file_path="/tmp/iamafile"
